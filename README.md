@@ -2,7 +2,13 @@
 
 A modern, responsive landing page for a cryptocurrency trading platform built with Next.js 15, TypeScript, Tailwind CSS, and Framer Motion.
 
-## Features
+## 🚀 Live Demo
+
+**[View Live Demo](https://crypto-landing-page-live.vercel.app/)**
+
+![Crypto Trading Platform](https://i.imgur.com/YOUR_SCREENSHOT_ID.png)
+
+## ✨ Features
 
 - **Modern UI/UX**: Clean, professional design with animated elements
 - **Fully Responsive**: Optimized for all screen sizes from mobile to desktop
@@ -16,7 +22,7 @@ A modern, responsive landing page for a cryptocurrency trading platform built wi
 - **TypeScript**: Full type safety throughout the codebase
 - **Accessibility**: Designed with accessibility in mind
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Framework**: Next.js 15
 - **Language**: TypeScript
@@ -24,8 +30,9 @@ A modern, responsive landing page for a cryptocurrency trading platform built wi
 - **UI Components**: Shadcn UI
 - **Animations**: Framer Motion
 - **State Management**: React Hooks
+- **Deployment**: Vercel
 
-## Getting Started
+## 🏁 Getting Started
 
 ### Prerequisites
 
@@ -56,7 +63,7 @@ A modern, responsive landing page for a cryptocurrency trading platform built wi
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
-## Project Structure
+## 📁 Project Structure
 
 - `/app`: Next.js app router pages and layouts
 - `/components`: Reusable UI components
@@ -65,9 +72,11 @@ A modern, responsive landing page for a cryptocurrency trading platform built wi
 - `/public`: Static assets
 - `/styles`: Global styles
 
-## Deployment
+## 🚢 Deployment
 
-This project can be easily deployed on [Vercel](https://vercel.com/) or any other Next.js-compatible hosting platform.
+This project is deployed on [Vercel](https://vercel.com/). You can deploy your own instance with a few clicks:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frealnik18%2Fcrypto-landing-page-live)
 
 ```bash
 npm run build
@@ -75,12 +84,11 @@ npm run build
 yarn build
 ```
 
-## License
+## 📄 License
 
 MIT
 
-## Contact
+## 📬 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
 
-Project Link: [https://github.com/yourusername/crypto-landing-page](https://github.com/yourusername/crypto-landing-page)
+Project Link: [https://github.com/realnik18/crypto-landing-page-live](https://github.com/realnik18/crypto-landing-page-live)
