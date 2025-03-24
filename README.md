@@ -6,8 +6,6 @@ A modern, responsive landing page for a cryptocurrency trading platform built wi
 
 **[View Live Demo](https://crypto-landing-page-live.vercel.app/)**
 
-![Crypto Trading Platform](https://i.imgur.com/YOUR_SCREENSHOT_ID.png)
-
 ## ✨ Features
 
 - **Modern UI/UX**: Clean, professional design with animated elements
@@ -43,22 +41,18 @@ A modern, responsive landing page for a cryptocurrency trading platform built wi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crypto-landing-page.git
-   cd crypto-landing-page
+   git clone https://github.com/realnik18/crypto-landing-page-live.git
+   cd crypto-landing-page-live
    ```
 
 2. Install dependencies:
    ```bash
    npm install
-   # or
-   yarn install
    ```
 
 3. Run the development server:
    ```bash
    npm run dev
-   # or
-   yarn dev
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
@@ -78,17 +72,12 @@ This project is deployed on [Vercel](https://vercel.com/). You can deploy your o
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frealnik18%2Fcrypto-landing-page-live)
 
-```bash
-npm run build
-# or
-yarn build
-```
-
 ## 📄 License
 
 MIT
 
 ## 📬 Contact
 
+Nikita S. - [GitHub Profile](https://github.com/realnik18)
 
 Project Link: [https://github.com/realnik18/crypto-landing-page-live](https://github.com/realnik18/crypto-landing-page-live)
